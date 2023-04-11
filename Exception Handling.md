@@ -11,7 +11,7 @@ Exception in java can arise :
 
 java provides a robust and object oriented way to handle exception scenerios, known as java Exceptional Handling.
 
-### Throwing the Exxception
+### Throwing the Exception
 
 - Java being an object oriented programming language, whenever an error occurs while executing a statement, creates an exception object. The exception object contains a lot of debugging info such as method hierarchy. eg. line no. where exception occured, type of exception etc.
 
