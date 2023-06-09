@@ -47,7 +47,6 @@ But == operator compares reference or memory location of objects in a Heap, whet
 
 Heap is a memory where all variables are stored. Since string is very very frequently used by the user. So without keeping the string in the heap, it decided to keep the string in another area called `String Pool Area`.
 
-
-
+**REST OF THE NOTES IN THE COPY**
 
 
